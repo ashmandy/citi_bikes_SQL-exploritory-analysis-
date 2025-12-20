@@ -73,6 +73,5 @@ This decision prioritizes analytical continuity over schema re-initialization fo
 ## Repository Structure
 - `citibike_analysis.sql` — schema definition, data checks, and analysis queries
 - `README.md` — project overview and context
-- `.gitignore` — excludes large raw CSV files
 
 ---
