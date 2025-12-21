@@ -1,9 +1,9 @@
 # Citi Bike SQL Analysis (January Dataset)
 
 ## Project Overview
-This project analyzes Citi Bike trip data using **MySQL** to examine system demand patterns, rider behavior differences, and station-level usage pressure. The analysis emphasizes **query design, data validation, and analytical reasoning** rather than ingestion automation or production pipelines.
+This project analyzes Citi Bike trip data using **MySQL** to examine system demand patterns, rider behavior differences, and station level usage pressure. The analysis emphasizes **query design, data validation, and analytical reasoning** rather than ingestion automation or production pipelines.
 
-The goal of this project is to demonstrate practical SQL skills and real-world decision-making when working with large, public datasets.
+The goal of this project is to demonstrate practical SQL skills and real world decision making when working with large, public datasets.
 
 ---
 
