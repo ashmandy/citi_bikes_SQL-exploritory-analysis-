@@ -9,7 +9,7 @@ MySQL in VS Code.
 ---
 
 ## Objectives
-1. **Demand Patterns** — Identify peak and off-peak hours across weekdays and weekends
+1. **Demand Patterns** — Identify peak and off peak hours across weekdays and weekends
 2. **Rider Behavior** — Compare trip duration, popular routes, and round trip habits 
 between members and casual riders
 3. **Station Demand Pressure** — Identify the busiest departure and arrival stations
@@ -32,9 +32,9 @@ the broader afternoon window of 3 PM – 6 PM which consistently produced high
 trip volumes
 - Morning commute hours also showed strong demand with **8 AM recording 119,669 trips**
 - The quietest hour was **4 AM with only 5,543 trips**
-- On **weekdays**, peak demand occurs at **5 PM (114,555 trips)** — consistent 
+- On **weekdays**, peak demand occurs at **5 PM (114,555 trips)**, consistent 
 with evening commute behavior
-- On **weekends**, peak demand shifts to **1 PM (31,283 trips)** — suggesting 
+- On **weekends**, peak demand shifts to **1 PM (31,283 trips)** ,suggesting 
 leisure and recreational use rather than commuting
 
 ### Rider Behavior
@@ -44,7 +44,7 @@ trip duration of **~372 minutes**
 of **~368 minutes**
 - **Round trips** were more common among casual riders at **2.97%** compared to 
 members at **1.20%**, suggesting casual riders are more likely to return to their 
-starting station — consistent with leisure riding patterns
+starting station, consistent with leisure riding patterns
 - Members favored consistent commute routes while casual riders showed more 
 varied route usage
 
