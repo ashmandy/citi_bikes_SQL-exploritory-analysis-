@@ -88,4 +88,4 @@ and will be linked here upon completion.
 ---
 ## Author
 **Mandy Langlois**
-Aspiring Data Analyst | Google Data Analytics Certificate (2026)
+Data Analyst | Google Data Analytics Certificate (2026)
