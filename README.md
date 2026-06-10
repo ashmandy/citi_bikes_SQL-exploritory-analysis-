@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes New York City Citi Bike trip data for January 2025 to uncover 
 demand patterns, rider behavior differences, and station pressure insights. 
-The analysis was self-directed — from data collection to SQL analysis — using 
+The analysis was personal project from data collection to SQL analysis using 
 MySQL in VS Code.
 
 ---
@@ -57,7 +57,7 @@ accounting for a disproportionate share of traffic
 
 ## SQL Techniques Used
 - Common Table Expressions (CTEs)
-- Window functions — `DENSE_RANK()`, `RANK() OVER (PARTITION BY)`
+- Window functions : `DENSE_RANK()`, `RANK() OVER (PARTITION BY)`
 - `TIMESTAMPDIFF()` for trip duration calculation
 - `CASE` statements for rider segmentation and round trip classification
 - `DAYOFWEEK()` for weekday vs weekend analysis
@@ -82,8 +82,8 @@ and will be linked here upon completion.
 
 
 ## Repository Structure
-- `citibike_analysis.sql` — schema definition, data checks, and analysis queries
-- `README.md` — project overview and context
+- `citibike_analysis.sql` : schema definition, data checks, and analysis queries
+- `README.md` : project overview and context
 
 ---
 ## Author
