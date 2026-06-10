@@ -1,4 +1,4 @@
-# Citi Bike NYC Trip Analysis — January 2025
+# Citi Bike NYC Trip Analysis 
 
 ## Project Overview
 This project analyzes New York City Citi Bike trip data for January 2025 to uncover 
